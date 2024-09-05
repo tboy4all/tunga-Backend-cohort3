@@ -1,0 +1,15 @@
+{
+  "name": "tunga-cohort3",
+  "version": "1.0.0",
+  "description": "nodejs first class",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taiye",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
